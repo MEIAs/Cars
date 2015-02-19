@@ -1,4 +1,3 @@
 # MANTO
-MANTO
-
-modificando archivo
+MANT
+Borré lo anterior
